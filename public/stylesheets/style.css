@@ -1,0 +1,21 @@
+ul.success li{
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    color: black;
+    background-color: #00ffff;
+    border-color: blueviolet;
+    list-style: none;
+    
+}
+
+ul.error li{
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    color: red;
+    background-color: aqua;
+    border-color: red;
+}
